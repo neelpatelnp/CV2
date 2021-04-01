@@ -124,10 +124,16 @@ hr {
   margin-right: 30px;
 }
 
-.c {
+.photoshop {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.primierpro {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .btn {
